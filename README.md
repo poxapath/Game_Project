@@ -2,6 +2,8 @@
 <br>
 Nesse projeto criei um Jogo Low-Code, pela ferramenta 'Construct 3', que é acessível pela internet e que possui a capacidade de armazenar alguns dados em um Banco de Dados Relacional.
 
+👾 Acesse o jogo: <a href="https://lowcodegame-cloud-birds.netlify.app"> clicando aqui! </a>
+        
 # Cloud Birds: Uma aventura no céu 🛫⛅🐥
 
 Em Cloud Birds, você se transforma em uma aventureira alada capaz de navegar pelos céus, porém, é preciso evitar a todo custo os pássaros que surgem em seu caminho. Felizmente, você tem um truque na manga: pães! Lance-os em direção aos pássaros famintos para alimentá-los e fazê-los desaparecer. Cada ave alimentada adiciona pontos à sua jornada, mas não se deixe enganar pela aparente simplicidade deste desafio...
@@ -34,4 +36,9 @@ Se subestimar a tarefa, o resultado pode ser fatal.. 💀👻
 Desenvolvido por **Patrícia Nogueira** 👩‍💻
 
 ##
+
+<h5>👀 Ei... já que você chegou até o final, fique com uma demostração do jogo:</h5>
+
+<a href="https://youtu.be/PH8uU6TP8i4">Clicando aqui</a>
+
 
