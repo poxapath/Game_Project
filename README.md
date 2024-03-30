@@ -36,4 +36,4 @@ Desenvolvido por **Patrícia Nogueira** 👩‍💻
 ##
 
 <h5>👀 Ei... já que você chegou até o final, fique com uma demostração do jogo:</h5>
-<video src="FINAL PROTOTYPE game_db/game_img/gameplay.mp4" width="640" height="480" controls></video>
+<video src="gameplay (online-video-cutter.com) (1).mp4" width="640" height="480" controls></video>
